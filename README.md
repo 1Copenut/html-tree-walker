@@ -1,0 +1,1 @@
+Adding a first README. This will be my effort to learn about tree walking.
